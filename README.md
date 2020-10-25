@@ -28,10 +28,12 @@ This is where I place what I am learning and building
 
 
 <br/>
+<br/>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <hr>
+<br/>
 
 <details>
     <summary>:zap: Github Stats</summary>
