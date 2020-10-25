@@ -8,6 +8,7 @@ This is where I place what I am learning and building
 
 &emsp;&emsp;&nbsp;<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <hr>
+<br/>
 
 #### Languages and Tools:
 
