@@ -3,8 +3,8 @@
 This is where I place what I am learning and building
 
 :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio)
-:mail: How to reach me
-<code><a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0073b1?style=for-the-badge&logo=linkedin"/></a></code>
+:mailbox: How to reach me: <br/>
+<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <hr>
 
 #### Languages and Tools:
