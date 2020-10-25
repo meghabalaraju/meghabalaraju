@@ -18,6 +18,6 @@ This is where I place what I am learning and coding
 
 #### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png" width="15px"> This week I spent my time on
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabalaraju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
