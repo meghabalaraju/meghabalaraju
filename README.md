@@ -1,9 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-This is where I place what I am learning and coding
 
-- :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio)
-- :seedling: I am currently learning React.js and React Native
-<br/>
+This is where I place what I am learning and building
+
+:hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio)
+:mail: How to reach me
+<code><a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0073b1?style=for-the-badge&logo=linkedin"/></a></code>
+<hr>
 
 #### Languages and Tools:
 
