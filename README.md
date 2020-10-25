@@ -21,9 +21,6 @@ This is where I place what I am learning and building
 
 #### This week I spent my time on
 
-<img align="left" alt="Megha's Github Sats" src="https://github-readme-stats.meghabalaraju.vercel.app/api?username=meghabalaraju&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&theme=radical" />
-
-
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabalaraju&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
@@ -36,4 +33,8 @@ This is where I place what I am learning and building
 
 </details>
 
-
+<details>
+    <summary>:zap: Recent GitHub Activitty</summary>
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
+</details>
