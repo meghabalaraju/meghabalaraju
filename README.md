@@ -7,7 +7,7 @@ This is where I place what I am learning and building
 - :mailbox: How to reach me: 
 <br/>
 
-&emsp;<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+&emsp;&emsp;&emsp;<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <hr>
 <br/>
 
@@ -26,11 +26,13 @@ This is where I place what I am learning and building
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabalaraju&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <br/>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <hr>
+
 <details>
     <summary>:zap: Github Stats</summary>
    
