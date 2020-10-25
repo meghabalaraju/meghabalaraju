@@ -2,10 +2,10 @@
 
 This is where I place what I am learning and building
 
-:hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio) 
-<br/>
-:mailbox: How to reach me: 
-<br/>
+- :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio) 
+
+- :mailbox: How to reach me: 
+
 <a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <hr>
 
