@@ -1,9 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Megha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 This is where I place what I am learning and building
 
 - :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio) 
-
+- :seedling: I'm currently learning React Native, Gatsby
+- :speech_balloon: Ask me about JavaScript
 - :mailbox: How to reach me: 
 <br/>
 
