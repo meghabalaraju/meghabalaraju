@@ -25,6 +25,6 @@ This is where I place what I am learning and coding
 <details>
     <summary>:zap: Github Stats</summary>
    
-   <img align="left" alt="Megha's Github Sats" src="https://github-readme-stats.meghabalaraju.vercel.app/api?username=meghabalaraju&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
+   <img align="left" alt="Megha's Github Sats" src="https://github-readme-stats.meghabalaraju.vercel.app/api?username=meghabalaraju&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&theme=radical" />
 
 </details>
