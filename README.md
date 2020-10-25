@@ -5,7 +5,7 @@ This is where I place what I am learning and building
 - :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio) 
 - :seedling: I'm currently learning React Native, Gatsby
 - :speech_balloon: Ask me about JavaScript
-- :mailbox: How to reach me: 
+- :point_down: How to reach me: 
 <br/>
 
 &emsp;&emsp;&emsp;<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
