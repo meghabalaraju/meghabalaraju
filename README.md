@@ -5,6 +5,7 @@ This is where I place what I am learning and coding
 - :seedling: I am currently learning React.js and React Native
 
 <br/>
+
 #### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -14,6 +15,7 @@ This is where I place what I am learning and coding
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 <br/>
+
 #### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png" width="15px"> This week I spent my time on
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
