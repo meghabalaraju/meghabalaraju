@@ -3,7 +3,7 @@ This is where I place what I am learning and coding
 
 - :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio)
 - :seedling: I am currently learning React.js and React Native
-
+<br/>
 
 #### Languages and Tools:
 
