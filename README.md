@@ -14,7 +14,7 @@ This is where I place what I am learning and coding
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 
-#### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png" width="15px"> This week I spent my time on
+#### This week I spent my time on
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabalaraju&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
