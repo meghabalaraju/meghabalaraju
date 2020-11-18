@@ -27,7 +27,7 @@ This is where I place what I am learning and building
 
 ### This week I spent my time on
 
-[Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabalaraju&layout=compact&theme=radical)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabalaraju&layout=compact&theme=radical)
 
 <br/>
 <br/>
