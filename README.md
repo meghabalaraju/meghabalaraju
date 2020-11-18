@@ -2,13 +2,14 @@
 
 This is where I place what I am learning and building
 
-- :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio) 
+- :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio)
 - :seedling: I'm currently learning React Native, Gatsby
 - :speech_balloon: Ask me about JavaScript
-- :point_down: How to reach me: 
-<br/>
+- :point_down: How to reach me:
+  <br/>
 
 &emsp;&emsp;&emsp;<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+
 <hr>
 <br/>
 
@@ -24,15 +25,11 @@ This is where I place what I am learning and building
 <br/>
 <hr>
 
-
 ### This week I spent my time on
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabalaraju&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghabalaraju&layout=compact&theme=radical)]
 
 <br/>
 <br/>
 
-*NOTE: Most Used languages :point_up: does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-
+_NOTE: Most Used languages :point_up: does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
