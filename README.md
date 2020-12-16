@@ -3,7 +3,7 @@
 This is where I place what I am learning and building
 
 - :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio)
-- :seedling: I'm currently learning React Native, Gatsby
+- :seedling: I'm currently learning React Native checkout the [repo](https://github.com/meghabalaraju/mobile-flashcards), Gatsby
 - :speech_balloon: Ask me about JavaScript
 - :point_down: How to reach me:
   <br/>
