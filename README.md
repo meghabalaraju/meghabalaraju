@@ -2,14 +2,13 @@
 
 This is where I place what I am learning and building
 
-- :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio)
-- :seedling: I'm currently learning React Native checkout the [repo](https://github.com/meghabalaraju/mobile-flashcards), Gatsby
+- :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio), checkout new page at [meghabalaraju.com](https://www.meghabalaraju.com)
+- :seedling: I'm currently learning React Hooks, GraphQL, tesing.
 - :speech_balloon: Ask me about JavaScript
-- :point_down: How to reach me:
+- :point_down: How to reach me: 
   <br/>
 
-&emsp;&emsp;&emsp;<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-
+&emsp; :computer: [website](https://www.meghabalaraju.com/) &ensp; | &ensp; :briefcase: [LinkedIn](https://www.linkedin.com/in/meghabalaraju/)
 <hr>
 <br/>
 
