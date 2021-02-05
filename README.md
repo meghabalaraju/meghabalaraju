@@ -2,7 +2,7 @@
 
 This is where I place what I am learning and building
 
-- :hammer: I’m currently working on redesigning [kbmegha.com](https://kbmegha.com/portfolio), checkout new page at [meghabalaraju.com](https://www.meghabalaraju.com)
+- :hammer: I’m currently working on [meghabalaraju.com](https://www.meghabalaraju.com)
 - :seedling: I'm currently learning React Hooks, GraphQL, tesing.
 - :speech_balloon: Ask me about JavaScript
 - :point_down: How to reach me: 
