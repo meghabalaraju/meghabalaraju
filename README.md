@@ -3,7 +3,7 @@
 This is where I place what I am learning and building
 
 - :hammer: I’m currently working on [meghabalaraju.com](https://www.meghabalaraju.com)
-- :seedling: I'm currently learning Databases, tesing.
+- :seedling: I'm currently learning about building Database.
 - :speech_balloon: Ask me about JavaScript
 - :woman_technologist: checkout my gists :point_right: [GitHub gists](https://gist.github.com/meghabalaraju)
 - :point_down: How to reach me: 
