@@ -1,24 +1,17 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22" height="19">, I'm Megha</h1>
-
-This is where I place what I am learning and building
-
-- :hammer: I’m currently working on [meghabalaraju.com](https://www.meghabalaraju.com)
-- :seedling: I'm currently learning about building Database.
-- :speech_balloon: Ask me about JavaScript
-- :woman_technologist: checkout my gists :point_right: [GitHub gists](https://gist.github.com/meghabalaraju)
-- :point_down: How to reach me:
-  <br/>
-
-&emsp; :computer: [website](https://www.meghabalaraju.com/) &ensp; | &ensp; :briefcase: [LinkedIn](https://www.linkedin.com/in/meghabalaraju/)
-
-<hr>
+<h1 align="center" style={{border}}>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" height="28">, I'm Megha</h1>
+<p align="center">This is where I place what I am learning and building</p>
 <br/>
 
-### Languages and Tools:
+**About me**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> &emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> &emsp;
+- 👩‍💻 I’m currently working on [meghabalaraju.com](https://www.meghabalaraju.com)
+
+- 🌱 I'm currently learning about building Database.
+
+- 💬 Ask me about JavaScript
+
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> &emsp;
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> &emsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> &emsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> &emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> &emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" /></code>
