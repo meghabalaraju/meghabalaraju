@@ -4,7 +4,7 @@
 
 **About me**
 
-- 👩‍💻&emsp;I’m currently working on [meghabalaraju.com](https://www.meghabalaraju.com)
+- 👩‍💻&emsp;I’m currently working on revamping [meghabalaraju.com](https://www.meghabalaraju.com)
 
 - 🌱&emsp;I'm currently learning about building Database.
 
