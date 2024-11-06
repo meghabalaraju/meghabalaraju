@@ -1,17 +1,11 @@
-<h1 align="center" style={{border}}>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" height="28">, I'm Megha</h1>
-<p align="center">This is where I place what I am learning and building</p>
-<br/>
+### 👋 Hi there!
 
-**About me**
+I'm Megha, a software engineer based in Berlin, Germany.
 
-- 👩‍💻&emsp;I’m currently working on revamping [meghabalaraju.com](https://www.meghabalaraju.com)
+I enjoy creating seamless digital experiences and am passionate about combining my technical skills with design to bring ideas to life through code. Here, I share some of the things I'm building and learning along the way.
 
-- 🌱&emsp;I'm currently learning about building Database.
+### Fun Facts:
 
-- 💬&emsp;Ask me about JavaScript
-
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> &emsp;
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> &emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> &emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> &emsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" /></code>
+- ☕ I'm one of the many who can't resist a good coffee.
+- 🌲 When I’m not coding, you’ll often find me outdoors exploring nature.
+- 📜 I enjoy reading about Greek mythology, and I'm currently reading about the Battle of Marathon.
