@@ -8,4 +8,3 @@ I enjoy creating seamless digital experiences and am passionate about combining 
 
 - ☕ I'm one of the many who can't resist a good coffee.
 - 🌲 When I’m not coding, you’ll often find me outdoors exploring nature.
-- 📜 I enjoy reading about Greek mythology, and I'm currently reading about the Battle of Marathon.
